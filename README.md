@@ -1,3 +1,18 @@
+
+# But wait theres more
+```
+                                                                  
+   (      (                  (                            (       
+   )\     )\    )            )\    (      (    )       )  )\      
+((((_)(  ((_)( /(   (     ((((_)(  )(    ))\  /((   ( /( ((_) (   
+ )\ _ )\  _  )(_))  )\ )   )\ _ )\(()\  /((_)(_))\  )(_)) _   )\  
+ (_)_\(_)| |((_)_  _(_/(   (_)_\(_)((_)(_))  _)((_)((_)_ | | ((_) 
+  / _ \  | |/ _` || ' \))   / _ \ | '_|/ -_) \ V / / _` || |/ _ \ 
+ /_/ \_\ |_|\__,_||_||_|   /_/ \_\|_|  \___|  \_/  \__,_||_|\___/ 
+                                                                  
+```
+
+
 # SmartMirror
 
 It's a Magic Zumie Mirror, you all know what it is. This is a complete rewrite in React and Node.js of my [original Magic Zumie Mirror](https://github.com/jakkra/MagicMirrorPi) written in Java. Everything is improved and it has lots of new functions.
